@@ -1,2 +1,1 @@
-# Hyperblog
-Practica del curso de Git y GIthub de Platzi
+Practica del curso de Git y Github de Platzi
