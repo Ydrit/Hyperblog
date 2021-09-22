@@ -9,5 +9,7 @@ Para esto
 * Trucos muy locos del profesor
 * Las personalidades de multiples de Freddy
 * Creado gracias a Platzi
+* Inlcuye ejemplos en Windows
+* Unete si quieres aprender
 
 Tambien utilizamos algunos **Trucos** utilizando [**Un excelente modificador**](https://pandao.github.io/editor.md/en.html)
